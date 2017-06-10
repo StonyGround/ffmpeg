@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg_darkgrey_normal.9.png",
+        "source": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\src\\main\\res\\drawable-hdpi\\btn_bg_darkgrey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg_lightgreen_pressed.9.png",
+        "source": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\src\\main\\res\\drawable-hdpi\\btn_bg_lightgreen_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg_darkgrey_pressed.9.png",
+        "source": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\src\\main\\res\\drawable-hdpi\\btn_bg_darkgrey_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bg_lightgreen_normal.9.png",
+        "source": "C:\\Users\\oneki\\StudioProjects\\video\\testAVProcessing\\src\\main\\res\\drawable-hdpi\\btn_bg_lightgreen_normal.9.png"
+    }
+]
