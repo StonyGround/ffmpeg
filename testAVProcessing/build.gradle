@@ -11,6 +11,8 @@ android {
 
         ndk {
             moduleName "ffmpeg"
+            abiFilter "armeabi"
+            ldLibs "log", "z", "m", "jnigraphics", "android"
         }
 
     }
